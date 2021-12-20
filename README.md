@@ -12,7 +12,6 @@ Application contains following functions with demo images-
 
 
 
-1. ![login page!](/images/logo1.png "San Juan Mountains")
 2. ![login page!](/images/4.png "San Juan Mountains")
 ![login page!](/images/1.png "San Juan Mountains")
 ![login page!](/images/5.png "San Juan Mountains")
