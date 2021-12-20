@@ -1,6 +1,7 @@
 # HotelBooking.com
 Application contains following functions-
-1)Splash screen \n
+  1.Splash screen 
+  2.login(using mail) and signup page
 2)login(using mail) and signup page
 3)Hotels list
 4)Room booking with price
