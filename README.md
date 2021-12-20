@@ -1,3 +1,11 @@
-# Eater-updated
-
-just install the app. i have added the permission for camera but sometimes it doesnt work due to maybe device settings, so you might need to give the camera access manually through app settings and then it should be fine.
+# HotelBooking.com
+Application contains following functions-
+1)Splash screen
+2)login(using mail) and signup page
+3)Hotels list
+4)Room booking with price
+5)Profile section .
+6)Confirm Reservation page
+7)Cancel reservation page
+8)Change mail id
+9)User can view login history
