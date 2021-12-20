@@ -1,5 +1,5 @@
 # HotelBooking.com
-Application contains following functions-
+Application contains following functions with demo images-
   1. Splash screen 
   2. login(using mail) and signup page
   3. Hotels list
@@ -9,3 +9,5 @@ Application contains following functions-
   7. Cancel reservation page
   8. Change mail id
   9. User can view login history
+
+![login page!](/images/1.png "San Juan Mountains")
